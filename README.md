@@ -1,4 +1,4 @@
-# Phishing do prjoto do curso de cybersecurity para captura de senhas do Facebook
+# Phishing do projeto do curso de cybersecurity para captura de senhas do Facebook
 
 ### Ferramentas
 
