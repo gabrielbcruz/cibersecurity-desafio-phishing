@@ -7,7 +7,7 @@
 
 ### Iniciando o Phishing no Kali Linux
 
--  Conceder ocesso root: ``` sudo su ```
+-  Conceder o acesso root: ``` sudo su ```
 - Iniciando a ferramenta setoolkit pelo comando: ``` setoolkit ```
 - Escolhendo o tipo de ataque: ``` Social-Engineering Attacks ```
 - Escolha do vetor de ataque: ``` Web Site Attack Vectors ```
